@@ -35,11 +35,11 @@
     }
     function updateBadge() {
         var xhr = new XMLHttpRequest();
-        xhr.open("GET", "https://blockchain.info/ticker", true);
+        xhr.open("GET", "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd", true);
         xhr.onreadystatechange = function () {
             if (xhr.readyState == 4 && xhr.status == 200) {
                 var response = JSON.parse(xhr.responseText);
-                var price = response['USD'].last;
+                var price = response.bitcoin.usd;
                 updateBadgeText(price);
             }
         };
