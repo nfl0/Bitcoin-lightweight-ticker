@@ -47,7 +47,6 @@
     }
     function setupInterval() {
         window.setInterval(function () {
-			
             updateBadge();
         }, 600000);
     }
