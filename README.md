@@ -1,2 +1,5 @@
 # Bitcoin-lightweight-ticker
-Firefox extension which simply shows the current price of bitcoin on the badge icon.
+
+Super lightweight minimalist Firefox extension that displays the current Bitcoin price in USD.
+
+Bitcoin price pulled from Coingecko's v3 API.
