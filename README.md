@@ -10,4 +10,4 @@ https://addons.opera.com/en/extensions/details/just-bitcoin-ticker-pro/
 
 
 
-![concept](https://raw.githubusercontent.com/nfl0/Bitcoin-lightweight-ticker/master/docs/sound.png)
+![concept](https://raw.githubusercontent.com/nfl0/Bitcoin-lightweight-ticker/master/Docs/sound.png)
