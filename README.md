@@ -4,9 +4,11 @@ Super lightweight minimalist browser extension that displays the current Bitcoin
 
 Bitcoin price pulled from the reliable top notch Coingecko's v3 API.
 
-https://addons.mozilla.org/en-US/firefox/addon/btc/
+Firefox - https://addons.mozilla.org/en-US/firefox/addon/btc/
 
-https://addons.opera.com/en/extensions/details/just-bitcoin-ticker-pro/
+Chromium - http://comingsoon.io/
+
+Opera - https://addons.opera.com/en/extensions/details/just-bitcoin-ticker-pro/
 
 
 
