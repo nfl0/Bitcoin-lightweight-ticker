@@ -1,6 +1,6 @@
 # Bitcoin-lightweight-ticker
 
-Super lightweight minimalist Firefox extension that displays the current Bitcoin price in USD.
+Super lightweight minimalist Firefox/Chrome extension that displays the current Bitcoin price in USD.
 
 Bitcoin price pulled from the reliable top notch Coingecko's v3 API.
 
